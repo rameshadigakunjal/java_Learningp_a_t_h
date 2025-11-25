@@ -1,4 +1,4 @@
-package IntermediateStage;
+package IntermediateStage.String;
 //1. String (Immutable): Configuration and Credentials 
 public class ConfigManager {
     public static void main(String[] args) {

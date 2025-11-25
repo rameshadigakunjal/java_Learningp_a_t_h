@@ -1,4 +1,4 @@
-package IntermediateStage;
+package IntermediateStage.String;
 
 public class Logger {
     private static StringBuilder logBuffer = new StringBuilder("----Log start-----");

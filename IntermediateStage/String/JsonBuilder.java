@@ -1,4 +1,4 @@
-package IntermediateStage;
+package IntermediateStage.String;
 // 2. StringBuilder (Mutable): Dynamic JSON Generation 
 public class JsonBuilder {
     public static String buildProductJson(String name, double price, int quantity) {
