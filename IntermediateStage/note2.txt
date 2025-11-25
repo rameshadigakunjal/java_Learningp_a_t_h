@@ -1,0 +1,13 @@
+- Strings (immutable, StringBuilder, StringBuffer)
+- Exception Handling
+    - try-catch-finally
+    - custom exceptions
+- File Handling (I/O Streams)
+- Java Collections Framework
+    - List, Set, Map
+    - ArrayList, LinkedList, HashSet, TreeSet, HashMap
+    - Iterator, ListIterator
+- Generics
+- Wrapper Classes
+- Enums
+- Inner Classes

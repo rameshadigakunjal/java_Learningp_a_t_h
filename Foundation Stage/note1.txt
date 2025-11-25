@@ -1,0 +1,24 @@
+- Introduction to Java
+- JDK, JRE, JVM
+- Variables, Data Types
+- Operators
+- Input/Output
+- Control Statements
+    - if-else
+    - switch
+    - loops (for, while, do-while)
+- Arrays
+- Methods & Recursion
+- OOP (Object-Oriented Programming)
+    - Classes & Objects
+    - Constructors
+    - Inheritance
+    - Polymorphism
+    - Encapsulation
+    - Abstraction
+- `this`, `super` keywords
+- Static & Final keywords
+
+### ✔ Practice
+
+- Basic coding problems (patterns, arrays, strings, recursion).
