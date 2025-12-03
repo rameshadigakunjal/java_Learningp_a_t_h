@@ -7,18 +7,20 @@ package IntermediateStage.Generics;
 import java.util.List;
 
 public class WildCardGenerics {
+    //6.1 Unbounded Wildcard
     public static void printList(List<?> list) {
     for (Object obj : list) {
         System.out.println(obj);
-        
+
     }
 }
+    //6.2 Upper Bounded Wildcard
     public static void printNumbers(List<? extends Number> list) {
     for (Number num : list) {
         System.out.println(num);
     }
 }
-
+    //6.3 Lower Bounded Wildcard
     public static void addIntegers(List<? super Integer> list) {
     list.add(100);
     list.add(200);
