@@ -1,4 +1,4 @@
-package FoundationStage.OOPSCOncepts;
+package FoundationStage.OOPSCOncepts.Object;
 
 class Bank{
     int accountNumber;

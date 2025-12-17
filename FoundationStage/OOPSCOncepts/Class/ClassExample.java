@@ -1,12 +1,11 @@
-package FoundationStage.OOPSCOncepts;
+package FoundationStage.OOPSCOncepts.Class;
 
 public class ClassExample {
-    int id;
+    public int id;
+    public String name;
+    public float salary;
 
-    String name;
-    float salary;
-
-    void display(){
+    public void display(){
         System.out.println(id + " " + name + " " + salary);
     }
     public static void main(String[] args) {
