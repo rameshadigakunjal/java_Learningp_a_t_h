@@ -14,8 +14,8 @@ class FileLogger extends Logger{
     String AppName;
 
     FileLogger(String AppName){
-        this.AppName = AppName;
         super(AppName);
+        this.AppName = AppName;
     }
     void logToFile(String message){
         System.out.println("Logging to file from " + AppName + ": " + message);
