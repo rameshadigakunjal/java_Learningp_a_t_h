@@ -43,7 +43,7 @@ class InventoryUpdate extends Thread {
         }
     }
 }
-public class EcommerceSystem {
+public class EcommerceSystemThreadClass {
     public static void main(String[] args) {
         System.out.println("The main thread is starting the E-Commerce Order Processing System...");
         orderConfirmation t1 = new orderConfirmation();
