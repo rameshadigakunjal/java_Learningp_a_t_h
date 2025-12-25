@@ -1,4 +1,4 @@
-package FoundationStage.Operator;
+
 
 public class ArithmeticExample {
     public static void main(String[] args) {

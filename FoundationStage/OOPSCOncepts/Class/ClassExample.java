@@ -1,4 +1,4 @@
-package FoundationStage.OOPSCOncepts.Class;
+
 
 public class ClassExample {
     public int id;

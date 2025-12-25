@@ -1,4 +1,4 @@
-package FoundationStage.FinalKeyword;
+
 class Employee{
     final String name = "ABC";
 

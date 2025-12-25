@@ -1,4 +1,4 @@
-package FoundationStage;
+
 
 class AddMethods{
     public int methods(int x,int y){

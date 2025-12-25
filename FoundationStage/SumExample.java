@@ -1,4 +1,4 @@
-package FoundationStage;
+
 
 public class SumExample {
     public static void main(String[] args) {

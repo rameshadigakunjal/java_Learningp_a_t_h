@@ -1,4 +1,4 @@
-package FoundationStage.OOPSCOncepts.Polymorphism;
+
 
 class Payment {
     void Pay(double amount) {

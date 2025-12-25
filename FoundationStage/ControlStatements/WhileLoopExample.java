@@ -1,4 +1,4 @@
-package FoundationStage.ControlStatements;
+
 
 public class WhileLoopExample {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package FoundationStage.OOPSCOncepts.Inheritence;
+
 class Logger{
     String AppName;
 

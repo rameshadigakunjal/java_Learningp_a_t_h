@@ -1,4 +1,4 @@
-package FoundationStage;
+
 
 public class ArrayMethods {
     static void getArrayLength(int[] arr){

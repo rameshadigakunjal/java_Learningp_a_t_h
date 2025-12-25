@@ -1,5 +1,4 @@
-package AdvanceStage.Multithreading;
-//Hotel Management System using Runnable Interface
+
 
 class RoomCleaningTask implements Runnable {
     public void run() {

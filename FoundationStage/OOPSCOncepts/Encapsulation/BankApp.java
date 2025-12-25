@@ -1,4 +1,4 @@
-package FoundationStage.OOPSCOncepts.Encapsulation;
+
 
 class BankAccount{
     private String accountNumber;

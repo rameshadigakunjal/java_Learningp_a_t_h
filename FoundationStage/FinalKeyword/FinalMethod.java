@@ -1,4 +1,4 @@
-package FoundationStage.FinalKeyword;
+
 class bank{
     final void displayInterestRate(){
         System.out.println("Interest Rate is: 5%");

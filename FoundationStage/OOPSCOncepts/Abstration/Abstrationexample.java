@@ -1,4 +1,4 @@
-package FoundationStage.OOPSCOncepts.Abstration;
+
 
 // Abstract class
 abstract class Payment {

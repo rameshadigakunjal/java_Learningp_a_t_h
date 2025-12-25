@@ -1,6 +1,4 @@
-package FoundationStage.OOPSCOncepts.Object;
 
-import FoundationStage.OOPSCOncepts.Class.ClassExample;
 public class ObjectExample {
     public static void main(String[] args) {
         ClassExample emp1 = new ClassExample();

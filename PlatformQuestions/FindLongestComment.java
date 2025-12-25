@@ -1,4 +1,4 @@
-package PlatformQuestions;
+
 
 public class FindLongestComment {
     public static int findLongestComment(String code) {

@@ -1,4 +1,4 @@
-package FoundationStage.Operator;
+
 
 public class TernaryExample {
     public static void main(String[] args) {

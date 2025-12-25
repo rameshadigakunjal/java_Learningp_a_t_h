@@ -1,4 +1,4 @@
-package FoundationStage.StaticKeyword;
+
 
 class Student{
     String name;

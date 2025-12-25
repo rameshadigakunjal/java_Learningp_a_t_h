@@ -1,4 +1,4 @@
-package PlatformQuestions;
+
 
 
 // Demonstration of All Access Modifiers in Java

@@ -1,4 +1,4 @@
-package PlatformQuestions.leetcode;
+
 /*344. Reverse String
 
 Topics

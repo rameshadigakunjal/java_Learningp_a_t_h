@@ -1,4 +1,4 @@
-package FoundationStage;
+
 
 public class PrimptiveDataType {
     public static void main(String[] args) {

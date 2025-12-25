@@ -1,4 +1,4 @@
-package FoundationStage.OOPSCOncepts;
+
 // Constructor is a special method that is called when an object is instantiated.
 // It is used to initialize the object's attributes.
 class Student {

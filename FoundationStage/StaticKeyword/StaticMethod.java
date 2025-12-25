@@ -1,4 +1,4 @@
-package FoundationStage.StaticKeyword;
+
 
 class Calculator{
     static int add(int a,int b){

@@ -1,4 +1,4 @@
-package FoundationStage.StaticKeyword;
+
 
 public class StaticBlock {
     static{

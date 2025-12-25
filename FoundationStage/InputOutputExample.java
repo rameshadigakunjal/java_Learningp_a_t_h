@@ -1,4 +1,4 @@
-package FoundationStage;
+
 
 import java.util.Scanner;
 

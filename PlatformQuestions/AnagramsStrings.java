@@ -1,4 +1,4 @@
-package PlatformQuestions;
+
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package FoundationStage.Operator;
+
 
 public class LogicalExample {
     public static void main(String[] args) {
