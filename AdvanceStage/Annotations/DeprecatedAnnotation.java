@@ -16,7 +16,9 @@ class DeprecatedAnnotation {
         System.out.println("This is the new method.");
     }
   public static void main(String[] args) {
-    
+    DeprecatedAnnotation da = new DeprecatedAnnotation();
+    da.oldMethod();  // This will show a warning    
+    da.newMethod();
   }
 
 }
